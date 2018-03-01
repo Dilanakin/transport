@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Transportkoop",
+    "name": "Site-12-11_0956",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -26,23 +26,14 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 2,
-    "versionPublish": "4.6.5",
-    "path": "@PROJECT_PATH@",
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "",
-    "siteUrl": "http://transportkoop.com",
-    "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nSitemap: http://www.transportkoop.com/transportkoopsitemap.xml",
-    "robotsSwitcher": "on",
-    "sitemapSwitcher": "on"
+    "versionPublish": "4.5.2"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Transportkoop.com (Sınırlı sorumlu Toplu İşyeri Yapı Kooperatifi)",
-        "meta_descr": "Transportkoop.com \n(Sınırlı sorumlu Toplu İşyeri Yapı Kooperatifi)",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
