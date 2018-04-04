@@ -26,7 +26,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 2,
-    "versionPublish": "4.6.5",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
@@ -154,7 +154,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Transportkoop",
+          "title": "Transportkooperatifi",
           "text": "Sınırlı sorumlu Toplu İşyeri Yapı Kooperatifi",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
